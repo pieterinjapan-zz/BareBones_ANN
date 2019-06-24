@@ -1,3 +1,12 @@
+"""
+Pieter van Wyk
+Created : 2018-11-25
+Updated : 2019-06-24
+
+sigmoid neuron artificial neural network :
+Standard neural network of sigmoid neurons that can be 
+trained for data classification.
+"""
 import numpy as np
 from functools import reduce
 
