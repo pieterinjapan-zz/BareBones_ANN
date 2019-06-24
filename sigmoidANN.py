@@ -194,6 +194,4 @@ def split_data(data_set,train_size) :
 
     return dataset_y_test_train
 
-#---------------------------------------------------------
-
 # END
